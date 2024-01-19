@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  padding: 0.4rem;
+}
+
+#toggler{
+  font-size: 1.8rem;
+  color: var(--toggled-color);
+  bacground-color: var(--toggeled-color);
+}
